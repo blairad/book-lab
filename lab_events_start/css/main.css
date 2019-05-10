@@ -1,0 +1,22 @@
+body {
+  font-family: Palatino;
+
+
+}
+
+.li {
+  background-color: lightblue;
+  list-style-type: none;
+
+}
+
+
+
+
+
+
+#reading-list {
+  display: grid;
+  grid-template-rows: 50% 50%;
+ 
+}
